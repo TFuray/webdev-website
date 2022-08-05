@@ -1,7 +1,7 @@
 window.addEventListener("DOMContentLoaded", function() {
 
     var form = document.getElementById('my-form');
-    var status = this.document.getElementById("status");
+    var status = document.getElementById("status");
 
     // success and error functions for form submission
 

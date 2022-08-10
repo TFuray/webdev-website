@@ -3538,3 +3538,10 @@ input, select, textarea {
 			}
 
 	}
+
+
+/* section two */
+
+	section#two .two {
+		text-align: center;
+	}

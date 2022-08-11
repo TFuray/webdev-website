@@ -2416,6 +2416,7 @@ input, select, textarea {
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
+			/* padding-left: 20%; */
 		}
 
 			.image.fit img {
@@ -3544,4 +3545,17 @@ input, select, textarea {
 
 	section#two .two {
 		text-align: center;
+	}
+
+
+	#prof-pic {
+		height: 319px;
+		width: auto;
+		border-radius: 40px;
+		margin: 0 auto;
+	}
+
+	div > div > div#about-me {
+		margin: auto;
+		padding: auto;
 	}

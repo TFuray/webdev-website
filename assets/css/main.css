@@ -2066,7 +2066,7 @@ input, select, textarea {
 		min-width: fit-content;
 		width: fit-content;
 		padding: 1%;
-		background: rgba(31, 30, 30, 0.274);
+		background: rgba(255, 255, 255, 0.274);
 		border-radius: 7px;
 	}
 	#status.success{
@@ -2807,7 +2807,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #555;
+			background-color: rgba(85, 85, 85, 0.363);
 			box-shadow: none !important;
 			color: #fff !important;
 		}
